@@ -1,3 +1,4 @@
 *.csv
 clean.py
 covid_playground.ipynb
+*.jpg
